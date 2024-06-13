@@ -4,7 +4,5 @@
 - 📫 U can text me by: mariaeduardaalvescasimir@gmail.com or www.linkedin.com/in/maria-casimiro
 - ⚡ Fun fact: I started in programming life in 2021, being part of a robotics club in high school.
 
-<!---
-MariaCasimiro/MariaCasimiro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+There should be one-- and preferably only one --obvious way to do it.
+Although that way may not be obvious at first unless you're Dutch.
