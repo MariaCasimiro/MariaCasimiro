@@ -8,7 +8,8 @@ This year, 2024, I am part of the Geração Caldeira Program in the Python trail
 
 #
 > “There should be one-- and preferably only one --obvious way to do it.
-Although that way may not be obvious at first unless you're Dutch." - The Zen of Python
+> 
+> Although that way may not be obvious at first unless you're Dutch." - The Zen of Python
 ###
 
 <div> 
